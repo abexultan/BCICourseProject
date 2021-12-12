@@ -1,4 +1,4 @@
-## BCICouseProject
+## BCICourseProject
 Repository containing the code for CSCI581 course Final Project at Nazarbayev Univesity.
 
 Complete analysis and explanation is provided in .pdf report file.
